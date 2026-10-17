@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" width="1200" height="390" role="img" aria-label="Tech stack. Languages: Java, Python, C++. AI / ML: Machine Learning, NLP, scikit-learn. Frontend: React, JavaScript, HTML, CSS. Backend: Node.js, Express, REST APIs. Data &amp; Infra: PostgreSQL, MongoDB, Docker. Tools: Git, GitHub, Postman">
+<title>Tech stack. Languages: Java, Python, C++. AI / ML: Machine Learning, NLP, scikit-learn. Frontend: React, JavaScript, HTML, CSS. Backend: Node.js, Express, REST APIs. Data &amp; Infra: PostgreSQL, MongoDB, Docker. Tools: Git, GitHub, Postman</title>
+<defs>
+<linearGradient id="toolkit-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#10070C"/><stop offset="60%" stop-color="#190B12"/><stop offset="100%" stop-color="#451126"/></linearGradient>
+<linearGradient id="toolkit-line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#701A3D" stop-opacity="0"/><stop offset="50%" stop-color="#C77B9B"/><stop offset="100%" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+<pattern id="toolkit-grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#E5B5C7" stroke-opacity="0.06"/></pattern>
+<filter id="toolkit-blur" x="-20%" y="-300%" width="140%" height="700%"><feGaussianBlur stdDeviation="6"/></filter>
+
+</defs>
+<rect width="1200" height="390" rx="18" fill="url(#toolkit-bg)"/>
+<rect width="1200" height="390" rx="18" fill="url(#toolkit-grid)"/>
+<rect x="0.5" y="0.5" width="1199" height="389" rx="18" fill="none" stroke="#C77B9B" stroke-opacity="0.25"/>
+<text x="60" y="59" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="14" font-weight="700" font-style="normal" fill="#C77B9B" text-anchor="start" letter-spacing="3">LANGUAGES</text>
+<rect x="300" y="36" width="64" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="332" y="58" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">Java</text>
+<rect x="374" y="36" width="82" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="415" y="58" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">Python</text>
+<rect x="466" y="36" width="56" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="494" y="58" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">C++</text>
+<rect x="60" y="82" width="1080" height="1" fill="#C77B9B" fill-opacity="0.18"/>
+<text x="60" y="117" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="14" font-weight="700" font-style="normal" fill="#C77B9B" text-anchor="start" letter-spacing="3">AI / ML</text>
+<rect x="300" y="94" width="169" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="384.5" y="116" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">Machine Learning</text>
+<rect x="479" y="94" width="56" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="507" y="116" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">NLP</text>
+<rect x="545" y="94" width="134" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="612" y="116" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">scikit-learn</text>
+<rect x="60" y="140" width="1080" height="1" fill="#C77B9B" fill-opacity="0.18"/>
+<text x="60" y="175" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="14" font-weight="700" font-style="normal" fill="#C77B9B" text-anchor="start" letter-spacing="3">FRONTEND</text>
+<rect x="300" y="152" width="73" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="336.5" y="174" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">React</text>
+<rect x="383" y="152" width="117" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="441.5" y="174" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">JavaScript</text>
+<rect x="510" y="152" width="64" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="542" y="174" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">HTML</text>
+<rect x="584" y="152" width="56" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="612" y="174" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">CSS</text>
+<rect x="60" y="198" width="1080" height="1" fill="#C77B9B" fill-opacity="0.18"/>
+<text x="60" y="233" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="14" font-weight="700" font-style="normal" fill="#C77B9B" text-anchor="start" letter-spacing="3">BACKEND</text>
+<rect x="300" y="210" width="90" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="345" y="232" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">Node.js</text>
+<rect x="400" y="210" width="90" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="445" y="232" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">Express</text>
+<rect x="500" y="210" width="108" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="554" y="232" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">REST APIs</text>
+<rect x="60" y="256" width="1080" height="1" fill="#C77B9B" fill-opacity="0.18"/>
+<text x="60" y="291" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="14" font-weight="700" font-style="normal" fill="#C77B9B" text-anchor="start" letter-spacing="3">DATA &amp; INFRA</text>
+<rect x="300" y="268" width="117" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="358.5" y="290" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">PostgreSQL</text>
+<rect x="427" y="268" width="90" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="472" y="290" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">MongoDB</text>
+<rect x="527" y="268" width="82" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="568" y="290" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">Docker</text>
+<rect x="60" y="314" width="1080" height="1" fill="#C77B9B" fill-opacity="0.18"/>
+<text x="60" y="349" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="14" font-weight="700" font-style="normal" fill="#C77B9B" text-anchor="start" letter-spacing="3">TOOLS</text>
+<rect x="300" y="326" width="56" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="328" y="348" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">Git</text>
+<rect x="366" y="326" width="82" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="407" y="348" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">GitHub</text>
+<rect x="458" y="326" width="90" height="34" rx="17" fill="#701A3D" fill-opacity="0.40" stroke="#C77B9B" stroke-opacity="0.55"/>
+<text x="503" y="348" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">Postman</text>
+<rect x="60" y="372" width="1080" height="1" fill="#C77B9B" fill-opacity="0.18"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-label="06  CERTIFICATIONS - Credentials, verified.">
+<title>06  CERTIFICATIONS - Credentials, verified.</title>
+<defs>
+<linearGradient id="t-certifications-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#10070C"/><stop offset="60%" stop-color="#190B12"/><stop offset="100%" stop-color="#451126"/></linearGradient>
+<linearGradient id="t-certifications-line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#701A3D" stop-opacity="0"/><stop offset="50%" stop-color="#C77B9B"/><stop offset="100%" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+<pattern id="t-certifications-grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#E5B5C7" stroke-opacity="0.06"/></pattern>
+<filter id="t-certifications-blur" x="-20%" y="-300%" width="140%" height="700%"><feGaussianBlur stdDeviation="6"/></filter>
+
+</defs>
+<rect width="1200" height="130" rx="18" fill="url(#t-certifications-bg)"/>
+<rect width="1200" height="130" rx="18" fill="url(#t-certifications-grid)"/>
+<rect x="0.5" y="0.5" width="1199" height="129" rx="18" fill="none" stroke="#C77B9B" stroke-opacity="0.25"/>
+<text x="60" y="46" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="700" font-style="normal" fill="#C77B9B" text-anchor="start" letter-spacing="6">06  CERTIFICATIONS</text><text x="60" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" font-style="normal" fill="#F8F0F3" text-anchor="start" letter-spacing="0">Credentials, verified.</text><rect x="60" y="106" width="360" height="3" rx="1.5" fill="url(#t-certifications-line)" filter="url(#t-certifications-blur)"/><rect x="60" y="106" width="360" height="3" rx="1.5" fill="url(#t-certifications-line)"><animate attributeName="opacity" values="0.55;1;0.55" dur="4s" repeatCount="indefinite"/></rect>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Your closing line goes here.">
+<title>Your closing line goes here.</title>
+<defs>
+<linearGradient id="foot-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#10070C"/><stop offset="60%" stop-color="#190B12"/><stop offset="100%" stop-color="#451126"/></linearGradient>
+<linearGradient id="foot-line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#701A3D" stop-opacity="0"/><stop offset="50%" stop-color="#C77B9B"/><stop offset="100%" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+<pattern id="foot-grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#E5B5C7" stroke-opacity="0.06"/></pattern>
+<filter id="foot-blur" x="-20%" y="-300%" width="140%" height="700%"><feGaussianBlur stdDeviation="6"/></filter>
+
+</defs>
+<rect width="1200" height="150" rx="18" fill="url(#foot-bg)"/>
+<rect width="1200" height="150" rx="18" fill="url(#foot-grid)"/>
+<rect x="0.5" y="0.5" width="1199" height="149" rx="18" fill="none" stroke="#C77B9B" stroke-opacity="0.25"/>
+<rect x="300" y="36" width="600" height="3" rx="1.5" fill="url(#foot-line)" filter="url(#foot-blur)"/><rect x="300" y="36" width="600" height="3" rx="1.5" fill="url(#foot-line)"><animate attributeName="opacity" values="0.55;1;0.55" dur="4s" repeatCount="indefinite"/></rect><text x="600" y="90" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="400" font-style="italic" fill="#E5B5C7" text-anchor="middle" letter-spacing="0">Your closing line goes here.</text><text x="600" y="122" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="14" font-weight="700" font-style="normal" fill="#C77B9B" text-anchor="middle" letter-spacing="6">YOUR NAME</text>
+</svg>

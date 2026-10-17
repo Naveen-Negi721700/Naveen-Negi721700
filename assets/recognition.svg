@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="YOUR HONOUR: Event or organisation, year; YOUR HONOUR 2: Event or organisation, year; 0.00: CGPA (only if you want it shown); 000+: Problems solved on your platform">
+<title>YOUR HONOUR: Event or organisation, year; YOUR HONOUR 2: Event or organisation, year; 0.00: CGPA (only if you want it shown); 000+: Problems solved on your platform</title>
+<defs>
+<linearGradient id="tiles-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#10070C"/><stop offset="60%" stop-color="#190B12"/><stop offset="100%" stop-color="#451126"/></linearGradient>
+<linearGradient id="tiles-line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#701A3D" stop-opacity="0"/><stop offset="50%" stop-color="#C77B9B"/><stop offset="100%" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+<pattern id="tiles-grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#E5B5C7" stroke-opacity="0.06"/></pattern>
+<filter id="tiles-blur" x="-20%" y="-300%" width="140%" height="700%"><feGaussianBlur stdDeviation="6"/></filter>
+
+</defs>
+<rect width="1200" height="230" rx="18" fill="url(#tiles-bg)"/>
+<rect width="1200" height="230" rx="18" fill="url(#tiles-grid)"/>
+<rect x="0.5" y="0.5" width="1199" height="229" rx="18" fill="none" stroke="#C77B9B" stroke-opacity="0.25"/>
+<rect x="30" y="30" width="270" height="170" rx="14" fill="#701A3D" fill-opacity="0.25" stroke="#C77B9B" stroke-opacity="0.4"/>
+<text x="165" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">YOUR HONOUR</text>
+<text x="165" y="140" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#E5B5C7" text-anchor="middle" letter-spacing="0">Event or organisation,</text>
+<text x="165" y="162" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#E5B5C7" text-anchor="middle" letter-spacing="0">year</text>
+<rect x="320" y="30" width="270" height="170" rx="14" fill="#701A3D" fill-opacity="0.25" stroke="#C77B9B" stroke-opacity="0.4"/>
+<text x="455" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">YOUR HONOUR 2</text>
+<text x="455" y="140" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#E5B5C7" text-anchor="middle" letter-spacing="0">Event or organisation,</text>
+<text x="455" y="162" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#E5B5C7" text-anchor="middle" letter-spacing="0">year</text>
+<rect x="610" y="30" width="270" height="170" rx="14" fill="#701A3D" fill-opacity="0.25" stroke="#C77B9B" stroke-opacity="0.4"/>
+<text x="745" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">0.00</text>
+<text x="745" y="140" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#E5B5C7" text-anchor="middle" letter-spacing="0">CGPA (only if you want it</text>
+<text x="745" y="162" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#E5B5C7" text-anchor="middle" letter-spacing="0">shown)</text>
+<rect x="900" y="30" width="270" height="170" rx="14" fill="#701A3D" fill-opacity="0.25" stroke="#C77B9B" stroke-opacity="0.4"/>
+<text x="1035" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" font-style="normal" fill="#F8F0F3" text-anchor="middle" letter-spacing="0">000+</text>
+<text x="1035" y="140" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#E5B5C7" text-anchor="middle" letter-spacing="0">Problems solved on your</text>
+<text x="1035" y="162" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="400" font-style="normal" fill="#E5B5C7" text-anchor="middle" letter-spacing="0">platform</text>
+</svg>

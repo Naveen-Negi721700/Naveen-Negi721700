@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 142" width="1200" height="142" role="img" aria-label="Write two to four honest sentences about yourself: what you study or do, what you have built, and what you are drawn to. Keep it concrete and short.">
+<title>Write two to four honest sentences about yourself: what you study or do, what you have built, and what you are drawn to. Keep it concrete and short.</title>
+<defs>
+<linearGradient id="about-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#10070C"/><stop offset="60%" stop-color="#190B12"/><stop offset="100%" stop-color="#451126"/></linearGradient>
+<linearGradient id="about-line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#701A3D" stop-opacity="0"/><stop offset="50%" stop-color="#C77B9B"/><stop offset="100%" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+<pattern id="about-grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#E5B5C7" stroke-opacity="0.06"/></pattern>
+<filter id="about-blur" x="-20%" y="-300%" width="140%" height="700%"><feGaussianBlur stdDeviation="6"/></filter>
+
+</defs>
+<rect width="1200" height="142" rx="18" fill="url(#about-bg)"/>
+<rect width="1200" height="142" rx="18" fill="url(#about-grid)"/>
+<rect x="0.5" y="0.5" width="1199" height="141" rx="18" fill="none" stroke="#C77B9B" stroke-opacity="0.25"/>
+<text x="60" y="62" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="start" letter-spacing="0">Write two to four honest sentences about yourself: what you study or do, what you have</text><text x="60" y="98" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="22" font-weight="400" font-style="normal" fill="#F8F0F3" text-anchor="start" letter-spacing="0">built, and what you are drawn to. Keep it concrete and short.</text>
+</svg>
