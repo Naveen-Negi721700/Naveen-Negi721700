@@ -6,39 +6,40 @@
   4. After pushing, run the "Generate contribution snake" workflow once (Actions tab).
 -->
 
-[![YOUR NAME - YOUR ROLE. Your one-line motto goes here.](assets/hero.svg)](https://Naveen-Negi721700.github.io)
+[![Naveen Negi - Full Stack Developer. Building ideas into useful products.](assets/hero.svg)](https://github.com/Naveen-Negi721700)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages)](https://Naveen-Negi721700.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode)](https://leetcode.com/u/YOUR-LEETCODE/)
-[![Email](https://img.shields.io/badge/Email-Say_hello-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail)](mailto:YOUR-EMAIL@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages)](https://naveen-negi721700.github.io/portfolio_website/o)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin)](https://www.linkedin.com/in/naveen-negi-423429326/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode)](https://leetcode.com/u/neveen_negi_721700/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail)](mailto:naveen72170@gmail.com)
 
-![01 About - Hello, I'm YOUR NAME.](assets/title-about.svg)
+![01 About - Hello, I'm Naveen Negi.](assets/title-about.svg)
 
-![About: write your short introduction here. It should match the text in about-intro.svg.](assets/about-intro.svg)
+![About: Building fast, scalable web applications with React, Next.js, Node.js, and MongoDB. Specialized in crafting seamless UIs and robust REST APIs.](assets/about-intro.svg)
 
 ![02 Recognition - Proof, on the record.](assets/title-recognition.svg)
 
-![Recognition: list your real achievements here, matching recognition.svg.](assets/recognition.svg)
+![Recognition: Completed the GFG 160 Days of Code challenge and gained full-stack development experience through internship and web projects.](assets/recognition.svg)
 
 ![03 Selected work - Products, not assignments.](assets/title-work.svg)
 
-[![Project One: short description, results and tech stack.](assets/project-1.svg)](https://github.com/Naveen-Negi721700/project-one)
+[![ShrinkIt: Full-stack URL shortener with authentication, custom links, QR codes and a personalized dashboard.](assets/project-1.svg)](https://github.com/Naveen-Negi721700/URL_shorten)
 
-[![Repository](https://img.shields.io/badge/Repository-Project_One-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github)](https://github.com/Naveen-Negi721700/project-one)
-[![Live demo](https://img.shields.io/badge/Live_demo-Open-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel)](https://YOUR-DEMO-LINK)
+[![Repository](https://img.shields.io/badge/Repository-ShrinkIt-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github)](https://github.com/Naveen-Negi721700/URL_shorten)
+[![Live demo](https://img.shields.io/badge/Live_demo-Open-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel)](https://shrinkit-eight.vercel.app/)
 
-[![Project Two: short description, results and tech stack.](assets/project-2.svg)](https://github.com/Naveen-Negi721700/project-two)
+[![PassOp: Password manager built with React, Node.js, Express and MongoDB, with password hashing.](assets/project-2.svg)](https://github.com/Naveen-Negi721700/Passop)
 
-[![Repository](https://img.shields.io/badge/Repository-Project_Two-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github)](https://github.com/Naveen-Negi721700/project-two)
+[![Repository](https://img.shields.io/badge/Repository-PassOp-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github)](https://github.com/Naveen-Negi721700/Passop)
+[![Live demo](https://img.shields.io/badge/Live_demo-Open-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel)](https://naveen-negi721700.github.io/passop_2.o/)
 
-[![Project Three: short description and tech stack.](assets/project-3.svg)](https://github.com/Naveen-Negi721700/project-three)
+[![BaaS Platform: Backend-as-a-Service project with user authentication, projects, API keys, collections and documents.](assets/project-3.svg)](https://github.com/Naveen-Negi721700/Baas_project)
 
-[![Repository](https://img.shields.io/badge/Repository-Project_Three-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github)](https://github.com/Naveen-Negi721700/project-three)
+[![Repository](https://img.shields.io/badge/Repository-BaaS_Platform-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github)](https://github.com/Naveen-Negi721700/Baas_project)
 
 ![04 Toolkit - The tools I reach for.](assets/title-toolkit.svg)
 
-![Tech stack: list the categories and tools shown in toolkit.svg.](assets/toolkit.svg)
+![Tech stack: Frontend: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS. Backend: Node.js, Express.js. Database: MongoDB. Languages: Java, C, C++. Tools: Git, GitHub, VS Code, Postman, Docker.](assets/toolkit.svg)
 
 ![05 Commit log - A year of building.](assets/title-commits.svg)
 
@@ -48,13 +49,13 @@
 
 ![06 Certifications - Credentials, verified.](assets/title-certifications.svg)
 
-![Certifications: list them here, matching certifications.svg.](assets/certifications.svg)
+![Certifications and achievements: ZeTheta Algorithms Private Limited Full Stack Developer internship project completion certificate and GeeksforGeeks 160 Days of Code Challenge completion.](assets/certifications.svg)
 
 ![07 Connect - Let's build something worth explaining.](assets/title-connect.svg)
 
-[![Email](https://img.shields.io/badge/Email-Say_hello-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail)](mailto:YOUR-EMAIL@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode)](https://leetcode.com/u/YOUR-LEETCODE/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages)](https://Naveen-Negi721700.github.io)
+[![Email](https://img.shields.io/badge/Email-Say_hello-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail)](mailto:naveen72170@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin)](https://www.linkedin.com/in/naveen-negi-423429326/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode)](https://leetcode.com/u/neveen_negi_721700/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages)](https://naveen-negi721700.github.io/portfolio_website/o)
 
-[![Your closing line goes here.](assets/footer-signature.svg)](https://Naveen-Negi721700.github.io)
+[![Turning coffee into clean code and complex algorithms into seamless user experiences.](assets/footer-signature.svg)](https://github.com/Naveen-Negi721700)
