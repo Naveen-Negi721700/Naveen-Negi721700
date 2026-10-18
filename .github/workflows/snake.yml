@@ -11,17 +11,14 @@ permissions:
 jobs:
   snake:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Naveen-Negi721700
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/contribution-snake.svg?color_snake=%23C77B9B&color_dots=%23190B12,%23451126,%23701A3D,%23C77B9B,%23E5B5C7
+            assets/contribution-snake.svg?color_snake=#C77B9B&color_dots=#190B12,#451126,#701A3D,#C77B9B,#E5B5C7
 
       - name: Commit snake
         run: |
