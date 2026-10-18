@@ -1,11 +1,3 @@
-<!--
-  SETUP
-  1. Edit CONFIG in generate_assets.js, then run: node generate_assets.js
-  2. Replace every YOUR-... placeholder below (search for "YOUR").
-  3. Only keep facts you can verify. Never add a phone number.
-  4. After pushing, run the "Generate contribution snake" workflow once (Actions tab).
--->
-
 [![Naveen Negi - Full Stack Developer. Building ideas into useful products.](assets/hero.svg)](https://github.com/Naveen-Negi721700)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages)](https://naveen-negi721700.github.io/portfolio_website/o)

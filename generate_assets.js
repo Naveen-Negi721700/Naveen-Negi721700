@@ -7,7 +7,6 @@
  * 3. It (re)writes every SVG into ./assets/ - commit them with README.md.
  *
  * Only use facts you can verify. Do not add a phone number.
- * 
  */
 const fs = require("fs");
 const path = require("path");
@@ -16,65 +15,58 @@ const path = require("path");
 // CONFIG - replace every placeholder
 // --------------------------------------------------------------------------
 const CONFIG = {
-  name: "YOUR NAME",
-  roleLine: "YOUR ROLE  |  YOUR ROLE 2  |  YOUR ROLE 3",
-  tagline: "Your one-line motto goes here.",   
-
+  name: "Naveen Negi",
+  roleLine: "FULL STACK DEVELOPER  |  MERN  |  NEXT.JS",
+  tagline: "Building ideas into useful products.",
 
   about:
-    "Write two to four honest sentences about yourself: what you study or do, " +
-    "what you have built, and what you are drawn to. Keep it concrete and short.",
+    "Computer Science and Engineering student at Shivalik College of Engineering, Dehradun, " +
+    "building fast, scalable web applications with React, Next.js, Node.js and MongoDB. " +
+    "I specialize in crafting seamless UIs and robust REST APIs.",
 
-  // Four tiles. Use only real achievements / numbers.
   tiles: [
-    ["YOUR HONOUR", "Event or organisation, year"],
-    ["YOUR HONOUR 2", "Event or organisation, year"],
-    ["0.00", "CGPA (only if you want it shown)"],
-    ["000+", "Problems solved on your platform"],
+    ["GFG 160", "Completed the GeeksforGeeks 160 Days of Code challenge"],
+    ["INTERN", "Full Stack Developer at ZeTheta Algorithms, 2026"],
+    ["3", "Full-stack projects on GitHub"],
+    ["B.Tech CSE", "Shivalik College of Engineering, Dehradun"],
   ],
 
-  // Up to ~4 projects. Keep metrics real; use [] if you have none.
   projects: [
     {
-      name: "Project One",
-      desc: "One or two sentences: what problem it solves and how it works.",
-      metrics: ["Real result 1", "Real result 2"],
-      tech: ["Python", "FastAPI", "PostgreSQL"],
+      name: "ShrinkIt",
+      desc: "Full-stack URL shortener with user authentication, custom short links, QR code generation and a personalized dashboard with link history.",
+      metrics: ["JWT authentication", "QR codes", "Link dashboard"],
+      tech: ["Next.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
     },
     {
-      name: "Project Two",
-      desc: "One or two sentences: what problem it solves and how it works.",
-      metrics: ["Real result 1"],
-      tech: ["React", "Node.js", "Docker"],
+      name: "PassOp",
+      desc: "Password manager for saving and managing credentials through a responsive React interface, with password hashing for credential security.",
+      metrics: ["Password hashing", "Responsive UI"],
+      tech: ["React.js", "JavaScript", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
     },
     {
-      name: "Project Three",
-      desc: "One or two sentences: what problem it solves and how it works.",
-      metrics: [],
-      tech: ["Java", "Spring Boot", "MySQL"],
+      name: "BaaS Platform",
+      desc: "Backend-as-a-Service project inspired by Firebase and Supabase, with user authentication, projects, API keys, collections and documents.",
+      metrics: ["API key management", "REST APIs tested with Postman"],
+      tech: ["MongoDB", "Express.js", "React.js", "Node.js", "Mongoose", "Postman"],
     },
   ],
 
   toolkit: {
-    Languages: ["Java", "Python", "C++"],
-    "AI / ML": ["Machine Learning", "NLP", "scikit-learn"],
-    Frontend: ["React", "JavaScript", "HTML", "CSS"],
-    Backend: ["Node.js", "Express", "REST APIs"],
-    "Data & Infra": ["PostgreSQL", "MongoDB", "Docker"],
-    Tools: ["Git", "GitHub", "Postman"],
+    Languages: ["JavaScript", "Java", "C", "C++"],
+    Frontend: ["HTML", "CSS", "React.js", "Next.js", "Tailwind CSS"],
+    Backend: ["Node.js", "Express.js"],
+    Database: ["MongoDB"],
+    Tools: ["Git", "GitHub", "VS Code", "Postman", "Docker"],
   },
 
-  // Keep each entry short (about 45 characters max).
   certs: [
-    "Certification name - Issuer",
-    "Certification name - Issuer",
-    "Certification name - Issuer",
-    "Certification name - Issuer",
+    "Full Stack Developer Internship - ZeTheta Algorithms",
+    "GeeksforGeeks - 160 Days of Code Challenge",
   ],
 
-  // [small label, big heading] for each section banner.
   titles: {
-    about: ["01  ABOUT", "Hello, I'm YOUR NAME."],
+    about: ["01  ABOUT", "Hello, I'm Naveen Negi."],
     recognition: ["02  RECOGNITION", "Proof, on the record."],
     work: ["03  SELECTED WORK", "Products, not assignments."],
     toolkit: ["04  TOOLKIT", "The tools I reach for."],
@@ -83,7 +75,7 @@ const CONFIG = {
     connect: ["07  CONNECT", "Let's build something worth explaining."],
   },
 
-  signature: "Your closing line goes here.",
+  signature: "Turning coffee into clean code and complex algorithms into seamless user experiences.",
 };
 
 // --------------------------------------------------------------------------
@@ -322,7 +314,7 @@ function footer(cfg) {
   const uid = "foot";
   const body =
     glowLine(uid, 300, 36, 600) +
-    text(600, 90, cfg.signature, { size: 26, fill: C.pale, family: SERIF, anchor: "middle", style: "italic" }) +
+    text(600, 90, cfg.signature, { size: cfg.signature.length > 60 ? 21 : 26, fill: C.pale, family: SERIF, anchor: "middle", style: "italic" }) +
     text(600, 122, cfg.name, { size: 14, fill: C.rose, weight: "700", anchor: "middle", spacing: 6 });
   write("footer-signature.svg", doc(1200, 150, uid, cfg.signature, body));
 }
