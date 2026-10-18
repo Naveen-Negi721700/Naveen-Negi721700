@@ -1,209 +1,60 @@
 <!--
-  Naveen Negi | GitHub Profile README
-  Snake workflow: .github/workflows/snake.yml
-  Generated snake: assets/contribution-snake.svg
+  SETUP
+  1. Edit CONFIG in generate_assets.js, then run: node generate_assets.js
+  2. Replace every YOUR-... placeholder below (search for "YOUR").
+  3. Only keep facts you can verify. Never add a phone number.
+  4. After pushing, run the "Generate contribution snake" workflow once (Actions tab).
 -->
 
-<div align="center">
+[![YOUR NAME - YOUR ROLE. Your one-line motto goes here.](assets/hero.svg)](https://Naveen-Negi721700.github.io)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:190B12,50:451126,100:701A3D&height=200&section=header&text=Naveen%20Negi&fontSize=48&fontColor=F8F0F3&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js&descAlignY=58&descSize=17" width="100%" alt="Naveen Negi profile banner"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages)](https://Naveen-Negi721700.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode)](https://leetcode.com/u/YOUR-LEETCODE/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail)](mailto:YOUR-EMAIL@example.com)
 
-<a href="https://github.com/Naveen-Negi721700">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=C77B9B&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+with+MERN+%26+Next.js;Learning.+Building.+Improving." alt="Animated introduction"/>
-</a>
+![01 About - Hello, I'm YOUR NAME.](assets/title-about.svg)
 
-<p>
-  <a href="https://github.com/Naveen-Negi721700"><img src="https://img.shields.io/badge/GitHub-Profile-701A3D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://Naveen-Negi721700.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</p>
+![About: write your short introduction here. It should match the text in about-intro.svg.](assets/about-intro.svg)
 
-</div>
+![02 Recognition - Proof, on the record.](assets/title-recognition.svg)
 
----
+![Recognition: list your real achievements here, matching recognition.svg.](assets/recognition.svg)
 
-## 01 — About Me
+![03 Selected work - Products, not assignments.](assets/title-work.svg)
 
-Hi, I'm **Naveen Negi**, a Computer Science and Engineering student at Shivalik College of Engineering, Dehradun, and a full-stack web developer.
+[![Project One: short description, results and tech stack.](assets/project-1.svg)](https://github.com/Naveen-Negi721700/project-one)
 
-I enjoy building responsive web applications, developing REST APIs, integrating databases, and turning ideas into working products.
+[![Repository](https://img.shields.io/badge/Repository-Project_One-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github)](https://github.com/Naveen-Negi721700/project-one)
+[![Live demo](https://img.shields.io/badge/Live_demo-Open-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel)](https://YOUR-DEMO-LINK)
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering.
-- 💻 Focused on the MERN stack and Next.js.
-- 🔐 Interested in authentication, API security, and backend architecture.
-- 🚀 Building full-stack projects and exploring scalable application design.
-- 📚 Continuously improving my programming and problem-solving skills.
-- 🎯 Working toward becoming a dependable software engineer.
+[![Project Two: short description, results and tech stack.](assets/project-2.svg)](https://github.com/Naveen-Negi721700/project-two)
 
----
+[![Repository](https://img.shields.io/badge/Repository-Project_Two-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github)](https://github.com/Naveen-Negi721700/project-two)
 
-## 02 — Recognition
+[![Project Three: short description and tech stack.](assets/project-3.svg)](https://github.com/Naveen-Negi721700/project-three)
 
-- 🏢 **ZeTheta Algorithms Private Limited:** Completed a Full Stack Developer internship/project assignment.
-- 🏅 **GFG 160 Day Challenge:** Completed the challenge.
-- 🛠️ **Full-stack development:** Built projects involving authentication, database integration, REST APIs, and responsive interfaces.
+[![Repository](https://img.shields.io/badge/Repository-Project_Three-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github)](https://github.com/Naveen-Negi721700/project-three)
 
----
+![04 Toolkit - The tools I reach for.](assets/title-toolkit.svg)
 
-## 03 — Selected Work
+![Tech stack: list the categories and tools shown in toolkit.svg.](assets/toolkit.svg)
 
-### 01. ShrinkIt — URL Shortener
+![05 Commit log - A year of building.](assets/title-commits.svg)
 
-A full-stack URL-shortening application with link management and user authentication.
+![Animated snake eating my real public GitHub contributions over the past year. Re-rendered daily.](assets/contribution-snake.svg)
 
-**Highlights**
+![GitHub stats: stars, commits, pull requests and issues](https://github-readme-stats.vercel.app/api?username=Naveen-Negi721700&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC&icon_color=C77B9B&custom_title=GitHub%20at%20a%20glance)
 
-- Custom short-link generation and redirection.
-- JWT-based authentication and protected routes.
-- QR code generation.
-- Personalized dashboard and link history.
+![06 Certifications - Credentials, verified.](assets/title-certifications.svg)
 
-**Stack:** Next.js, Node.js, Express.js, MongoDB, Tailwind CSS.
+![Certifications: list them here, matching certifications.svg.](assets/certifications.svg)
 
-[![View on GitHub](https://img.shields.io/badge/Repository-View_Project-451126?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveen-Negi721700)
+![07 Connect - Let's build something worth explaining.](assets/title-connect.svg)
 
-### 02. PassOp — Password Manager
+[![Email](https://img.shields.io/badge/Email-Say_hello-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode)](https://leetcode.com/u/YOUR-LEETCODE/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages)](https://Naveen-Negi721700.github.io)
 
-A password-management application for organizing saved credentials through a responsive interface.
-
-**Highlights**
-
-- Add and manage saved credentials.
-- Responsive React interface.
-- Password hashing as part of credential security.
-
-**Stack:** React.js, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB.
-
-[![View on GitHub](https://img.shields.io/badge/Repository-View_Project-451126?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveen-Negi721700)
-
-### 03. Backend-as-a-Service Platform
-
-A BaaS project inspired by Firebase and Supabase, designed to provide backend resources to applications.
-
-**Highlights**
-
-- User registration and authentication.
-- Project creation and management.
-- API key management.
-- Collection and document management.
-- REST API testing with Postman.
-
-**Stack:** MongoDB, Express.js, React.js, Node.js, Mongoose, Postman.
-
-[![View on GitHub](https://img.shields.io/badge/Repository-View_Project-451126?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveen-Negi721700)
-
-### 04. Foundation Website
-
-Contributed to a website project focused on presenting foundation information through a responsive web interface.
-
-**Stack:** Next.js, Tailwind CSS, Vercel.
-
-[![Live Website](https://img.shields.io/badge/Live_Demo-Visit-451126?style=for-the-badge&logo=vercel&logoColor=white)](https://smadhuna-foundation.vercel.app)
-
----
-
-## 04 — Experience
-
-**Full Stack Developer Intern**
-ZeTheta Algorithms Private Limited · August 2026
-
-- Worked on a multi-step loan application form.
-- Developed responsive and reusable frontend components.
-- Debugged application issues and improved interface behavior.
-- Gained practical experience with full-stack development workflows.
-
-**Web Developer — Project Experience**
-C4 Cause · May 2026
-
-- Worked on website development for JMD Global Services.
-- Developed responsive interfaces using Next.js and Tailwind CSS.
-- Worked with MongoDB as part of the project stack.
-- Deployed the website using Vercel.
-
----
-
-## 05 — Toolkit
-
-<div align="center">
-
-<b>Languages</b><br/>
-<img src="https://skillicons.dev/icons?i=js,java,c,cpp" alt="JavaScript, Java, C and C++"/>
-
-<br/><br/>
-
-<b>Frontend</b><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="HTML, CSS, React, Next.js and Tailwind CSS"/>
-
-<br/><br/>
-
-<b>Backend and Database</b><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express and MongoDB"/>
-
-<br/><br/>
-
-<b>Developer Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code and Postman"/>
-
-</div>
-
----
-
-## 06 — Commit Log
-
-A year of building.
-
-<div align="center">
-
-<!-- This file is generated by .github/workflows/snake.yml -->
-<img src="assets/contribution-snake.svg" alt="Animated snake eating my real public GitHub contributions over the past year. Re-rendered daily." width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Naveen-Negi721700&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC&icon_color=C77B9B&custom_title=GitHub%20at%20a%20glance" alt="GitHub statistics" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Negi721700&layout=compact&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC" alt="Most used programming languages" width="100%"/>
-
-<img src="https://streak-stats.demolab.com?user=Naveen-Negi721700&hide_border=true&background=190B12&ring=C77B9B&fire=E5B5C7&currStreakLabel=F8F0F3&sideLabels=F8F0F3&currStreakNum=F8F0F3&sideNums=F8F0F3&dates=B6A3AC" alt="GitHub contribution streak" width="100%"/>
-
-</div>
-
----
-
-## 07 — Certifications & Achievements
-
-- 📜 ZeTheta Algorithms Private Limited project completion certificate.
-- 🏅 GeeksforGeeks 160 Day Challenge completion.
-- 🛠️ Practical experience building full-stack web development projects.
-
----
-
-## 08 — Currently Learning
-
-- Advanced Node.js and Express.js.
-- Database design and MongoDB optimization.
-- Secure authentication and API design.
-- Data structures and algorithms.
-- Scalable backend architecture.
-
----
-
-## 09 — Connect
-
-<div align="center">
-
-I'm open to connecting with developers, collaborating on projects, and exploring software development opportunities.
-
-<br/>
-
-<a href="https://github.com/Naveen-Negi721700"><img src="https://img.shields.io/badge/GitHub-Follow-701A3D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://Naveen-Negi721700.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-
-<br/><br/>
-
-**Building today. Improving tomorrow.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:701A3D,50:451126,100:190B12&height=120&section=footer" width="100%" alt="Burgundy footer banner"/>
-
-</div>  
-
+[![Your closing line goes here.](assets/footer-signature.svg)](https://Naveen-Negi721700.github.io)
