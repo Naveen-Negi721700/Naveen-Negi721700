@@ -7,6 +7,7 @@
  * 3. It (re)writes every SVG into ./assets/ - commit them with README.md.
  *
  * Only use facts you can verify. Do not add a phone number.
+ * 
  */
 const fs = require("fs");
 const path = require("path");
