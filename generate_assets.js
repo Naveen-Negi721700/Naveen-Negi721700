@@ -18,7 +18,8 @@ const path = require("path");
 const CONFIG = {
   name: "YOUR NAME",
   roleLine: "YOUR ROLE  |  YOUR ROLE 2  |  YOUR ROLE 3",
-  tagline: "Your one-line motto goes here.",
+  tagline: "Your one-line motto goes here.",   
+
 
   about:
     "Write two to four honest sentences about yourself: what you study or do, " +

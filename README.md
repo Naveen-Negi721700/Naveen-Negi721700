@@ -206,3 +206,4 @@ I'm open to connecting with developers, collaborating on projects, and exploring
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:701A3D,50:451126,100:190B12&height=120&section=footer" width="100%" alt="Burgundy footer banner"/>
 
 </div>  
+
