@@ -1,6 +1,6 @@
 [![Naveen Negi - Full Stack Developer. Building ideas into useful products.](assets/hero.svg)](https://github.com/Naveen-Negi721700)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages)](https://naveen-negi721700.github.io/portfolio_website/o)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages)](https://portfolio-eta-sooty-t3sbkkdmuc.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin)](https://www.linkedin.com/in/naveen-negi-423429326/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode)](https://leetcode.com/u/neveen_negi_721700/)
 [![Email](https://img.shields.io/badge/Email-Say_hello-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail)](mailto:naveen72170@gmail.com)
@@ -48,6 +48,6 @@
 [![Email](https://img.shields.io/badge/Email-Say_hello-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail)](mailto:naveen72170@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=linkedin)](https://www.linkedin.com/in/naveen-negi-423429326/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode)](https://leetcode.com/u/neveen_negi_721700/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages)](https://naveen-negi721700.github.io/portfolio_website/o)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages)](https://portfolio-eta-sooty-t3sbkkdmuc.vercel.app/)
 
 [![Turning coffee into clean code and complex algorithms into seamless user experiences.](assets/footer-signature.svg)](https://github.com/Naveen-Negi721700)
